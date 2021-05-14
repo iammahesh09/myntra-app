@@ -1,0 +1,749 @@
+{
+    "myntra": [
+        {
+            "women": [
+                {
+                    "id": 11118674,
+                    "category": "sarees",
+                    "brand": "ahalyaa",
+                    "content": "Black Self-Striped Ruffled Ready to Wear Saree",
+                    "price": 4622,
+                    "color": [
+                        "blue",
+                        "black",
+                        "red"
+                    ],
+                    "discount": 57,
+                    "picture": "ahalyaa-11118674-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "info": [
+                        "Black self-striped ruffled ready to wear saree, has snap button closure",
+                        "Comes with a stitched blouse in black, has a V-neck, sleeveless, tie-up closure"
+                    ],
+                    "quality": 54
+                },
+                {
+                    "id": 11118680,
+                    "category": "sarees",
+                    "brand": "Ahalyaa",
+                    "content": "Rust Brown Woven Design Saree",
+                    "price": 3330,
+                    "color": [
+                        "black",
+                        "red"
+                    ],
+                    "discount": 44,
+                    "picture": "ahalyaa-11118680-1.jpg",
+                    "sizes": [
+                        "M",
+                        "L"
+                    ],
+                    "info": [
+                        "Rust brown woven design saree, has an embellished border, snap button closure",
+                        "Comes with a stitched blouse in golden with shimmer effect, has a V-neck, sleeveless, tie-up closure"
+                    ],
+                    "quality": 21
+                },
+                {
+                    "id": 1914094,
+                    "category": "sarees",
+                    "brand": "Banarasi Style",
+                    "content": "Blue Net Patterned Saree",
+                    "price": 11399,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 0,
+                    "picture": "banarasi-1914094-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L"
+                    ],
+                    "info": [
+                        "Blue floral pattern saree, has an embellished border",
+                        "Blouse piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 5
+                },
+                {
+                    "id": 10998236,
+                    "category": "sarees",
+                    "brand": "Banarasi Style",
+                    "content": "Black & Silver Woven Design Banarasi Saree",
+                    "price": 5149,
+                    "color": [
+                        "black",
+                        "silver"
+                    ],
+                    "discount": 0,
+                    "picture": "banarasi-10998236-1.jpg",
+                    "sizes": [
+                        "L"
+                    ],
+                    "info": [
+                        "Black and silver banarasi woven design saree",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 16
+                },
+                {
+                    "id": 8982445,
+                    "category": "sarees",
+                    "brand": "Banarasi Style",
+                    "content": "Orange & Blue Silk Blend Woven Design Banarasi Saree",
+                    "price": 10199,
+                    "color": [
+                        "orange",
+                        "blue"
+                    ],
+                    "discount": 0,
+                    "picture": "banarasi-8982445-1.jpg",
+                    "sizes": [
+                        "L",
+                        "XL"
+                    ],
+                    "info": [
+                        "Orange banarasi woven design saree, has a woven design border",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 9
+                },
+                {
+                    "id": 11040654,
+                    "category": "sarees",
+                    "brand": "GoSriKi",
+                    "content": "Blue Silk Cotton Woven Design Chanderi Saree",
+                    "price": 4121,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 46,
+                    "picture": "gosriKi-11040654-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L"
+                    ],
+                    "info": [
+                        "Blue chanderi woven design saree and has a zari border",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 34
+                },
+                {
+                    "id": 11067884,
+                    "category": "sarees",
+                    "brand": "Varkala Silk Sarees",
+                    "content": "Yellow Cotton Blend Solid Banarasi Saree",
+                    "price": 3450,
+                    "color": [
+                        "yellow"
+                    ],
+                    "discount": 75,
+                    "picture": "varkala-11067884-1.jpg",
+                    "sizes": [
+                        "L",
+                        "XL"
+                    ],
+                    "info": [
+                        "Yellow banarasi solid saree and has a woven design border",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 5
+                },
+                {
+                    "id": 11423222,
+                    "category": "sarees",
+                    "brand": "Inddus",
+                    "content": "Mustard Yellow Crepe Floral Printed Ruffle Saree with Unstitched Blouse",
+                    "price": 3399,
+                    "color": [
+                        "yellow"
+                    ],
+                    "discount": 49,
+                    "picture": "inddus-11423222-1.jpg",
+                    "sizes": [
+                        "L",
+                        "XL"
+                    ],
+                    "info": [
+                        "Mustard yellow printed saree and has a printed border",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 61
+                },
+                {
+                    "id": 12631338,
+                    "category": "sarees",
+                    "brand": "Inddus",
+                    "content": "Magenta Pink Solid Silk Blend Embroidered Border Saree",
+                    "price": 4999,
+                    "color": [
+                        "pink"
+                    ],
+                    "discount": 46,
+                    "picture": "inddus-12631338-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "info": [
+                        "Magenta pink solid saree and has a zari border",
+                        "Blouse Piece",
+                        "The model is wearing a blouse from our stylist's collection, see the image for a mock-up of what the actual blouse would look like"
+                    ],
+                    "quality": 19
+                },
+                {
+                    "id": 9186553,
+                    "category": "kurtas",
+                    "brand": "Anouk",
+                    "content": "Women Red Printed A-Line Kurta",
+                    "price": 1799,
+                    "color": [
+                        "red"
+                    ],
+                    "discount": 70,
+                    "picture": "anouk-9186553-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ],
+                    "info": [
+                        "Red printed A-line fusion kurta, has a round neck, three-quarter sleeves, flared hem",
+                        "This fision kurta can also be worn as a dress"
+                    ],
+                    "quality": 23
+                },
+                {
+                    "id": 12894698,
+                    "category": "kurtas",
+                    "brand": "anayna",
+                    "content": "Women Pink & Magenta Printed Strappy Straight Kurta",
+                    "price": 1499,
+                    "color": [
+                        "pink"
+                    ],
+                    "discount": 50,
+                    "picture": "anayna-12894698-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Pink and Magenta printed straight kurta, has shoulder straps, straight hem, and side slits"
+                    ],
+                    "quality": 23
+                },
+                {
+                    "id": 7098912,
+                    "category": "kurtas",
+                    "brand": "Libas",
+                    "content": "Women Green Embroidered Straight Kurta",
+                    "price": 1599,
+                    "color": [
+                        "green"
+                    ],
+                    "discount": 30,
+                    "picture": "libas-7098912-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Green embroidered straight kurta, has a notched round neck, short sleeves, straight hem, side slits"
+                    ],
+                    "quality": 23
+                },
+                {
+                    "id": 7344664,
+                    "category": "kurtas",
+                    "brand": "Varanga",
+                    "content": "Women Pink & Grey Printed Anarkali Kurta",
+                    "price": 3299,
+                    "color": [
+                        "pink"
+                    ],
+                    "discount": 41,
+                    "picture": "varanga-7344664-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Pink and grey printed anarkali kurta, has a mandarin collar, three-quarter sleeves, flared hem, attached lining"
+                    ],
+                    "quality": 27
+                },
+                {
+                    "id": 1991317,
+                    "category": "kurtas",
+                    "brand": "Libas",
+                    "content": "Women Maroon Solid A-Line Kurta",
+                    "price": 999,
+                    "color": [
+                        "red"
+                    ],
+                    "discount": 53,
+                    "picture": "libas-1991317-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Maroon solid A-line kurta, has a keyhole neck, three-quarter sleeves, straight hem, side slits"
+                    ],
+                    "quality": 8
+                },
+                {
+                    "id": 12766966,
+                    "category": "kurtas",
+                    "brand": "Ishin",
+                    "content": "Women Red & Orange Bandhani Print Anarkali Kurta",
+                    "price": 4999,
+                    "color": [
+                        "red",
+                        "orange"
+                    ],
+                    "discount": 50,
+                    "picture": "ishin-12766966-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Red, orange and pink bandhani printed anarkali kurta with gotta patti detailing, has a round neck, three-quarter sleeves, and flared hem"
+                    ],
+                    "quality": 42
+                },
+                {
+                    "id": 9369413,
+                    "category": "kurtas",
+                    "brand": "Myshka",
+                    "content": "Women Pink Solid Straight Kurta",
+                    "price": 1499,
+                    "color": [
+                        "pink"
+                    ],
+                    "discount": 63,
+                    "picture": "myshka-9369413-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Pink solid straight kurta, has a round neck, shot button placket, three-quarter sleeves, straight hem, side slits"
+                    ],
+                    "quality": 36
+                },
+                {
+                    "id": 11919308,
+                    "category": "kurtas",
+                    "brand": "Divena",
+                    "content": "Women Peach-Coloured Gotta Patti Printed Cotton Anarkali With Long Ethnic Jacket",
+                    "price": 5999,
+                    "color": [
+                        "pink"
+                    ],
+                    "discount": 50,
+                    "picture": "divena-11919308-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Revel in the spirit of festivities as you wear this gorgeous, peach-coloured anarkali. Featuring round neck, flared hem, gotta patti detailing and a jacket with a tie-up."
+                    ],
+                    "quality": 31
+                },
+                {
+                    "id": 9369705,
+                    "category": "dresses",
+                    "brand": "Sangria",
+                    "content": "Women Teal Blue Solid A-Line Dress",
+                    "price": 1999,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 45,
+                    "picture": "dresses-9369705-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Teal blue solid woven A-line dress, has a round neck, short sleeves, and flared hem"
+                    ],
+                    "quality": 19
+                },
+                {
+                    "id": 8696365,
+                    "category": "dresses",
+                    "brand": "Vishudh",
+                    "content": "Women Navy Blue Printed Maxi Dress",
+                    "price": 2499,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 65,
+                    "picture": "dresses-8696365-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Navy Blue and red printed woven maxi dress, has a round neck, short sleeves, concealed zip closure, an attached lining, flared hem"
+                    ],
+                    "quality": 51
+                },
+                {
+                    "id": 8621743,
+                    "category": "dresses",
+                    "brand": "Anouk",
+                    "content": "Women Red Printed A-Line Dress",
+                    "price": 1799,
+                    "color": [
+                        "red"
+                    ],
+                    "discount": 65,
+                    "picture": "dresses-8621743-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Red printed woven A-line dress, has a round neck, three-quarter sleeves, button closure, flared hem"
+                    ],
+                    "quality": 62
+                },
+                {
+                    "id": 11432036,
+                    "category": "dresses",
+                    "brand": "Biba",
+                    "content": "Women White Printed Tiered Maxi Dress",
+                    "price": 3599,
+                    "color": [
+                        "white"
+                    ],
+                    "discount": 45,
+                    "picture": "dresses-11432036-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "White and red printed woven tiered maxi dress, has a V-neck, long sleeves, an attached lining, and flounce hem"
+                    ],
+                    "quality": 16
+                },
+                {
+                    "id": 11283162,
+                    "category": "dresses",
+                    "brand": "Taavi",
+                    "content": "Women Off White & Grey Checked Woven Legacy A-Line Sustainable Dress",
+                    "price": 2299,
+                    "color": [
+                        "white"
+                    ],
+                    "discount": 70,
+                    "picture": "dresses-11283162-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Woven Legacy: India is home to a plethora of handlooms, weaves and handicrafts. It is a different feeling of owning a material that has been carefully put together and woven, and these ethic weaves, produced indigenously, have a particularly special feel about them"
+                    ],
+                    "quality": 50
+                },
+                {
+                    "id": 11079916,
+                    "category": "dresses",
+                    "brand": "Inddus",
+                    "content": "Women Black & Burgundy Solid Layered Maxi Dress",
+                    "price": 6599,
+                    "color": [
+                        "black"
+                    ],
+                    "discount": 63,
+                    "picture": "dresses-11079916-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Black solid woven maxi dress, has a round neck, sleeveless, concealed zip closure, an attached lining, and flared hem",
+                        "Comes with a burgundy embroidered ethnic jacket, has a round neck, short sleeves"
+                    ],
+                    "quality": 29
+                },
+                {
+                    "id": 12415230,
+                    "category": "dresses",
+                    "brand": "Sangria",
+                    "content": "Women Green Solid A-Line Dress",
+                    "price": 2299,
+                    "color": [
+                        "green"
+                    ],
+                    "discount": 70,
+                    "picture": "dresses-12415230-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Sangria is a ready-to-wear brand that focuses on a global Indian woman. Sangria has a unique signature style with an electric collection of fabrics, colors, and patterns. The brand has a modern take on traditional Indian motifs and designs with a wide range of offerings"
+                    ],
+                    "quality": 43
+                },
+                {
+                    "id": 11908962,
+                    "category": "shirts",
+                    "brand": "clorals",
+                    "content": "Women Navy Blue & Pink Regular Fit Printed Shirt",
+                    "price": 1800,
+                    "color": [
+                        "navy blue",
+                        "pink"
+                    ],
+                    "discount": 71,
+                    "picture": "clorals-11908962-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Navy Blue and Pink printed ethnic shirt, has a mandarin collar, three-quarter sleeves, button placket, and curved hem"
+                    ],
+                    "quality": 20
+                },
+                {
+                    "id": 13290420,
+                    "category": "shirts",
+                    "brand": "Sangria",
+                    "content": "Women Sea Green & Pink Regular Fit Pure Cotton Printed Ethnic Shirt",
+                    "price": 1299,
+                    "color": [
+                        "green",
+                        "pink"
+                    ],
+                    "discount": 50,
+                    "picture": "sangria-13290420-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Sangria is a ready-to-wear brand that focuses on a global Indian woman. Sangria has a unique signature style with an electric collection of fabrics, colors, and patterns. The brand has a modern take on traditional Indian motifs and designs with a wide range of offerings"
+                    ],
+                    "quality": 20
+                },
+                {
+                    "id": 11987122,
+                    "category": "shirts",
+                    "brand": "Roadster",
+                    "content": "Women Sea Green & Pink Regular Fit Pure Cotton Printed Ethnic Shirt",
+                    "price": 1399,
+                    "color": [
+                        "navy blue"
+                    ],
+                    "discount": 55,
+                    "picture": "roadster-11987122-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Navy Blue and Burgundy checked casual shirt, has a spread collar, long sleeves, button placket, curved hem, and 1 patch pocket"
+                    ],
+                    "quality": 20
+                },
+                {
+                    "id": 7328432,
+                    "category": "jeans",
+                    "brand": "Sztori",
+                    "content": "Plus Size Women Blue Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+                    "price": 1799,
+                    "color": [
+                        "blue light"
+                    ],
+                    "discount": 0,
+                    "picture": "sztori-7328432-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Blue light wash 5-pocket mid-rise jeans, clean look with light fade, has a button and zip closure, waistband with belt loops"
+                    ],
+                    "quality": 20
+                },
+                {
+                    "id": 11491104,
+                    "category": "t-shirt",
+                    "brand": "Madame",
+                    "content": "Women Blue & Golden Printed Round Neck T-shirt",
+                    "price": 999,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 25,
+                    "picture": "madame-11491104-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Blue and Golden printed T-shirt, has a round neck, and short sleeves"
+                    ],
+                    "quality": 26
+                },
+                {
+                    "id": 12278572,
+                    "category": "t-shirt",
+                    "brand": "Roadster",
+                    "content": "Women Blue Solid Cotton Round Neck T-shirt",
+                    "price": 1099,
+                    "color": [
+                        "blue"
+                    ],
+                    "discount": 60,
+                    "picture": "roadster-12278572-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Blue solid T-shirt with embroidered detail, has a round neck, and short sleeves"
+                    ],
+                    "quality": 26
+                },
+                {
+                    "id": 13601430,
+                    "category": "t-shirt",
+                    "brand": "Roadster",
+                    "content": "Women Navy Blue & Pink Pure Cotton Typographic Print Round Neck T-shirt",
+                    "price": 899,
+                    "color": [
+                        "navy blue",
+                        "pink"
+                    ],
+                    "discount": 50,
+                    "picture": "roadster-13601430-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "Navy Blue and Pink typographic print T-shirt, has a round neck, and short sleeves"
+                    ],
+                    "quality": 26
+                },
+                {
+                    "id": 1788326,
+                    "category": "t-shirt",
+                    "brand": "Lee Cooper",
+                    "content": "Women White Printed Round Neck T-shirt",
+                    "price": 799,
+                    "color": [
+                        "white"
+                    ],
+                    "discount": 0,
+                    "picture": "roadster-1788326-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ],
+                    "info": [
+                        "White and blue printed waist length T-shirt, has a round neck, long sleeves"
+                    ],
+                    "quality": 26
+                }
+            ]
+        }
+    ]
+}
