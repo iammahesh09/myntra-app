@@ -743,6 +743,787 @@
                     ],
                     "quality": 26
                 }
+            ],
+            "men": [
+                {
+                    "id": 7546902,
+                    "category": "shirts",
+                    "brand": "HIGHLANDER",
+                    "content": "Men White & Blue Slim Fit Checked Casual Shirt",
+                    "price": 1249,
+                    "color": [
+                        "white",
+                        "black",
+                        "green"
+                    ],
+                    "discount": 55,
+                    "picture": "adidas-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 7,
+                    "info": [
+                        "100% Original Products",
+                        "Free Delivery on order above Rs. 799",
+                        "Pay on delivery might be available",
+                        "Easy 30 days returns and exchanges",
+                        "Try & Buy might be available"
+                    ]
+                },
+                {
+                    "id": 9701564175877424,
+                    "category": "shirts",
+                    "brand": "LOCOMOTIVE",
+                    "content": "Men Black & Grey Slim Fit Checked Casual Shirt",
+                    "price": 1649,
+                    "color": [
+                        "brown",
+                        "orange",
+                        "sky blue"
+                    ],
+                    "discount": 57,
+                    "picture": "9701564175877424-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 20,
+                    "info": [
+                        "Black and grey checked casual shirt, has a spread collar, long roll-up sleeves, button placket, curved hem, and 1 patch pocket"
+                    ]
+
+                },
+                {
+                    "id": 9891566454,
+                    "category": "shirts",
+                    "brand": "Dennis Lingo",
+                    "content": "Men Pink Slim Fit Solid Casual Shirt",
+                    "price": 1849,
+                    "color": "sky blue",
+                    "discount": 64,
+                    "picture": "9891566454-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 9,
+                    "info": [
+                        "Pink solid casual shirt, has a spread collar, long sleeves, curved hem, one patch pocket"
+                    ]
+
+                },
+                {
+                    "id": 9891566454,
+                    "category": "shirts",
+                    "brand": "Mast & Harbour",
+                    "content": "Men Beige & Red Regular Fit Checked Linen Casual Shirt",
+                    "price": 2799,
+                    "color": [
+                        "red",
+                        "green",
+                        "brown"
+                    ],
+                    "discount": 30,
+                    "picture": "9891566454-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 9,
+                    "info": [
+                        "Beige and Red checked casual shirt, has a spread collar, long sleeves, button placket, and curved hem"
+                    ]
+
+                },
+                {
+                    "id": 21215838,
+                    "category": "shirts",
+                    "brand": "WROGN",
+                    "content": "Men Black & Grey Slim Fit Checked Casual Shirt",
+                    "price": 2399,
+                    "color": [
+                        "black",
+                        "gray",
+                        "red"
+                    ],
+                    "discount": 30,
+                    "picture": "21215838-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 5,
+                    "info": [
+                        "Black and grey checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem"
+                    ]
+
+                },
+                {
+                    "id": 1575361938857,
+                    "category": "shirts",
+                    "brand": "HIGHLANDER",
+                    "content": "Men White & Blue Slim Fit Striped Casual Shirt",
+                    "price": 1149,
+                    "color": [
+                        "white",
+                        "blue",
+                        "sky blue"
+                    ],
+                    "discount": 50,
+                    "picture": "1575361938857-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "White and blue striped casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem"
+                    ]
+
+                },
+
+
+                {
+                    "id": 413157898974132,
+                    "category": "T-shirts",
+                    "brand": "Roadster",
+                    "content": "Men Blue Printed Round Neck T-shirt",
+                    "price": 499,
+                    "color": [
+                        "white",
+                        "blue",
+                        "sky blue"
+                    ],
+                    "discount": 50,
+                    "picture": "413157898974132-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 10,
+                    "info": [
+                        "Blue printed T-shirt, has a round neck, and short sleeves"
+                    ]
+
+                },
+                {
+                    "id": 31562331283665,
+                    "category": "T-shirts",
+                    "brand": "Roadster",
+                    "content": "Men Black & White Colourblocked Polo Collar T-shirt",
+                    "price": 999,
+                    "color": [
+                        "white",
+                        "black"
+                    ],
+                    "discount": 60,
+                    "picture": "31562331283665-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 10,
+                    "info": [
+                        "Black and white colourblocked T-shirt, has a polo collar, short sleeves"
+                    ]
+
+                },
+                {
+                    "id": 1554699735416,
+                    "category": "T-shirts",
+                    "brand": "WROGN",
+                    "content": "Men Rust Red High Density Print Round Neck T-shirt",
+                    "price": 999,
+                    "color": [
+                        "Red",
+                        "black",
+                        "brown"
+                    ],
+                    "discount": 30,
+                    "picture": "1554699735416-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 5,
+                    "info": [
+                        "Rust red high density print waist length T-shirt, has a round neck, short sleeves"
+                    ]
+
+                },
+                {
+                    "id": 11518159758071,
+                    "category": "T-shirts",
+                    "brand": "FIDO DIDO",
+                    "content": "Men Pink Solid Polo Collar Slim Fit T-shirt",
+                    "price": 1499,
+                    "color": [
+                        "pink",
+                        "yellow",
+                        "brown"
+                    ],
+                    "discount": 58,
+                    "picture": "11518159758071-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 4,
+                    "info": [
+                        "Pink solid T-shirt, has a polo collar, short sleeves."
+                    ]
+
+                },
+                {
+                    "id": 1554699735416,
+                    "category": "T-shirts",
+                    "brand": "WROGN",
+                    "content": "Men Rust Red High Density Print Round Neck T-shirt",
+                    "price": 999,
+                    "color": [
+                        "Red",
+                        "black",
+                        "brown"
+                    ],
+                    "discount": 30,
+                    "picture": "1554699735416-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 5,
+                    "info": [
+                        "Rust red high density print waist length T-shirt, has a round neck, short sleeves"
+                    ]
+
+                },
+                {
+                    "id": 4301592468759871,
+                    "category": "T-shirts",
+                    "brand": "ether",
+                    "content": "Men Black Solid Henley Neck T-shirt",
+                    "price": 799,
+                    "color": [
+                        "black",
+                        "brown",
+                        "pink"
+                    ],
+                    "discount": 50,
+                    "picture": "4301592468759871-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Black solid T-shirt, has a Henley neck, and long sleeves"
+                    ]
+
+                },
+
+                {
+                    "id": 1961592199937883,
+                    "category": "Jeans",
+                    "brand": "Jack & Jones",
+                    "content": "Men Blue Glenn Slim Fit Low-Rise Clean Look Stretchable Jeans",
+                    "price": 3499,
+                    "color": [
+                        "black",
+                        "blue",
+                        "gray"
+                    ],
+                    "discount": 60,
+                    "picture": "1961592199937883-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 8,
+                    "info": [
+                        "Blue dark wash 5-pocket low-rise jeans, clean look, light fade, has a zip fly closure, and waistband with belt loops"
+                    ]
+
+                },
+                {
+                    "id": 5711607574144255,
+                    "category": "Jeans",
+                    "brand": "Mast & Harbour",
+                    "content": "Men Navy Blue Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+                    "price": 1799,
+                    "color": [
+                        "black",
+                        "navy blue",
+                        "gray"
+                    ],
+                    "discount": 45,
+                    "picture": "5711607574144255-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 4,
+                    "info": [
+                        "Navy Blue dark wash 5-pocket mid-rise jeans, clean look, light fade, has a button and zip closure, and waistband with belt loops"
+                    ]
+
+                },
+                {
+                    "id": 2201619168246131,
+                    "category": "Jeans",
+                    "brand": "Levis",
+                    "content": "Men Blue 512 Slim Tapered Fit Mid-Rise Clean Look Stretchable Jeans",
+                    "price": 3599,
+                    "color": [
+                        "blue",
+                        "black",
+                        "gray"
+                    ],
+                    "discount": 72,
+                    "picture": "2201619168246131-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Blue with a tinge of Black dark wash 5-pocket mid-rise jeans, clean look, no fade, has a button and zip closure, and waistband with belt loops"
+                    ]
+
+                },
+                {
+                    "id": 2201619168246131,
+                    "category": "Jeans",
+                    "brand": "Levis",
+                    "content": "Men Blue 512 Slim Tapered Fit Mid-Rise Clean Look Stretchable Jeans",
+                    "price": 3599,
+                    "color": [
+                        "blue",
+                        "black",
+                        "gray"
+                    ],
+                    "discount": 72,
+                    "picture": "2201619168246131-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Blue with a tinge of Black dark wash 5-pocket mid-rise jeans, clean look, no fade, has a button and zip closure, and waistband with belt loops"
+                    ]
+
+                },
+                {
+                    "id": 46406653403515,
+                    "category": "Jeans",
+                    "brand": "Roadster",
+                    "content": "Men Blue Regular Fit Mid-Rise Mildly Distressed Stretchable Jeans",
+                    "price": 2299,
+                    "color": [
+                        "blue",
+                        "black",
+                        "gray"
+                    ],
+                    "discount": 50,
+                    "picture": "4640665340351562132679861-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 8,
+                    "info": [
+                        "Blue light wash 5-pocket mid-rise jeans, mildly distressed, light fade, has a button and zip closure, and waistband with belt loops"
+                    ]
+
+                },
+
+
+                {
+                    "id": 619444013207,
+                    "category": "Jackets",
+                    "brand": "HIGHLANDER",
+                    "content": "Men Green Pure Cotton Solid Tailored Jacket",
+                    "price": 2099,
+                    "color": [
+                        "blue",
+                        "black",
+                        "gray"
+                    ],
+                    "discount": 60,
+                    "picture": "619444013207-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 14,
+                    "info": [
+                        "Green solid tailored jacket, has a hooded, zip closure, straight hem, and 2 insert pockets"
+                    ]
+
+                },
+                {
+                    "id": 2171605847280798,
+                    "category": "Jackets",
+                    "brand": "Hubberholme",
+                    "content": "Men Blue Solid Denim Jacket",
+                    "price": 1999,
+                    "color": [
+                        "blue",
+                        "sky blue",
+                        "cream"
+                    ],
+                    "discount": 50,
+                    "picture": "2171605847280798-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 4,
+                    "info": [
+                        "Blue solid denim jacket, has a spread collar, 4 pockets, button closures, long sleeves, straight hem"
+                    ]
+
+                },
+                {
+                    "id": 2171605847280798,
+                    "category": "Jackets",
+                    "brand": "Hubberholme",
+                    "content": "Men Blue Solid Denim Jacket",
+                    "price": 1999,
+                    "color": [
+                        "blue",
+                        "sky blue",
+                        "cream"
+                    ],
+                    "discount": 50,
+                    "picture": "2171605847280798-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 4,
+                    "info": [
+                        "Blue solid denim jacket, has a spread collar, 4 pockets, button closures, long sleeves, straight hem"
+                    ]
+
+                },
+                {
+                    "id": 451611124954040,
+                    "category": "Jackets",
+                    "brand": "Levis",
+                    "content": "Men Black Solid Denim Jacket",
+                    "price": 4699,
+                    "color": [
+                        "black",
+                        "merun",
+                        "brown"
+                    ],
+                    "discount": 30,
+                    "picture": "451611124954040-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 12,
+                    "info": [
+                        "Black solid jacket, has a spread collar, 4 pockets, button closure, long sleeves, straight hem, and cotton lining"
+                    ]
+
+                },
+                {
+                    "id": 81569327890751,
+                    "category": "Jackets",
+                    "brand": "HIGHLANDER",
+                    "content": "Men Black Solid Leather Jacket",
+                    "price": 4099,
+                    "color": [
+                        "black",
+                        "merun",
+                        "brown"
+                    ],
+                    "discount": 50,
+                    "picture": "81569327890751-1.jpg",
+                    "sizes": [
+                        "S",
+                        "M",
+                        "L",
+                        "XXL",
+                        "XXXL"
+                    ],
+                    "quality": 12,
+                    "info": [
+                        "Black solid leather jacket, has a spread collar, 3 pockets, zip closure, long sleeves, straight hem, and unlined"
+                    ]
+
+                }
+
+
+            ],
+            "kids": [
+                {
+                    "id": 1616664223766,
+                    "category": "shirts",
+                    "brand": "max",
+                    "content": "Boys Blue Regular Fit Printed Casual Shirt",
+                    "price": 499,
+                    "color": [
+                        "Blue",
+                        "white",
+                        "green"
+                    ],
+                    "discount": 0,
+                    "picture": "1616664223766-1.jpg",
+                    "sizes": [
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 7,
+                    "info": [
+                        "Blue printed casual shirt, has a spread collar, button placket, and curved hem"
+                    ]
+                },
+                {
+                    "id": 81567429610388,
+                    "category": "shirts",
+                    "brand": "Gini and Jony",
+                    "content": "Boys Black Regular Fit Solid Casual Shirt with Tie",
+                    "price": 1299,
+                    "color": [
+                        "black",
+                        "white",
+                        "brown"
+                    ],
+                    "discount": 50,
+                    "picture": "81567429610388-1.jpg",
+                    "sizes": [
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 4,
+                    "info": [
+                        "Black solid casual shirt, has a spread collar, long roll-up sleeves, button placket, and curved hem Comes with a black solid broad tie"
+                    ]
+                },
+                {
+                    "id": 8531595555363863,
+                    "category": "shirts",
+                    "brand": "Pepe Jeans",
+                    "content": "Boys Mustard and Navy Blue Regular Fit Checked Casual Shirt",
+                    "price": 1499,
+                    "color": [
+                        "black",
+                        "white",
+                        "brown"
+                    ],
+                    "discount": 40,
+                    "picture": "8531595555363863-1.jpg",
+                    "sizes": [
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 9,
+                    "info": [
+                        "Mustard and Navy Blue checked casual shirt, has a spread collar, long sleeves, button placket, curved hem, and 1 patch pocket Design Details-Pepe Jeans Boy's shirt, full sleeved, bright Yarn dyed check shirt, soft hand feel"
+                    ]
+                },
+                {
+                    "id": 8561613453319703,
+                    "category": "shirts",
+                    "brand": "YK",
+                    "content": "Boys Teal Blue & Yellow Regular Fit Nautical Print Pure Cotton Casual Shirt",
+                    "price": 899,
+                    "color": [
+                        "black",
+                        "blue",
+                        "sky blue"
+                    ],
+                    "discount": 50,
+                    "picture": "8561613453319703-1.jpg",
+                    "sizes": [
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Teal blue, yellow and red nautical print casual shirt, has a spread collar, short sleeves, button placket, curved hem, and 1 patch pocket"
+                    ]
+                },
+                {
+                    "id": 6181618210435133,
+                    "category": "shirts",
+                    "brand": "YK Warner Bros",
+                    "content": "Boys White & Blue Cotton Tom & Jerry Print Regular Fit Casual Shirt",
+                    "price": 1799,
+                    "color": [
+                        "white",
+                        "cream white",
+                        "sky blue"
+                    ],
+                    "discount": 55,
+                    "picture": "6181618210435133-1.jpg",
+                    "sizes": [
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 14,
+                    "info": [
+                        "White, Blue and grey tom & jerry print casual shirt, has a band collar, short sleeves, button placket, and curved hem"
+                    ]
+                },
+
+                {
+                    "id": 4501582006529459,
+                    "category": "T-shirts",
+                    "brand": "YK Basics",
+                    "content": "Boys Pack of 3 Printed Round Neck T-shirts",
+                    "price": 1099,
+                    "color": [
+                        "white",
+                        "cream white",
+                        "black",
+                        "blue"
+                    ],
+                    "discount": 50,
+                    "picture": "4501582006529459-1.jpg",
+                    "sizes": [
+                        "1y",
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Pack of 3 printed t-shirts in blue & white each has a round neck, and short sleeves"
+                    ]
+                },
+                {
+                    "id": 1618199917020,
+                    "category": "T-shirts",
+                    "brand": "max",
+                    "content": "Boys Yellow Printed Round Neck T-shirt",
+                    "price": 169,
+                    "color": [
+                        "yellow",
+                        "cream white",
+                        "black"
+                    ],
+                    "discount": 0,
+                    "picture": "1618199917020-1.jpg",
+                    "sizes": [
+                        "1y",
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 6,
+                    "info": [
+                        "Yellow printed T-shirt and has a round neck"
+                    ]
+                },
+                {
+                    "id": 1620125105417,
+                    "category": "T-shirts",
+                    "brand": "H&M",
+                    "content": "Boys White Printed T-shirt",
+                    "price": 299,
+                    "color": [
+                        "white",
+                        "cream white",
+                        "black"
+                    ],
+                    "discount": 0,
+                    "picture": "1620125105417-1.jpg",
+                    "sizes": [
+                        "1y",
+                        "2y-3y",
+                        "3y-4y",
+                        "5y-6y",
+                        "7y-8y"
+                    ],
+                    "quality": 5,
+                    "info": [
+                        "T-shirt in cotton jersey with a print motif on the front and narrow ribbing around the neckline"
+                    ]
+                }
+        
+
+
             ]
         }
     ]
