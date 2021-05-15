@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.icon {
+    background-image: url(/assets/MyntraWebSprite_27_01_2021.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.profile-icon {
+    width: 24px;
+    height: 24px;
+    background-position: -298px -56px;
+    background-size: 1404px 105px;
+}
+.bag-icon {
+    width: 22px;
+    height: 22px;
+    background-position: -341px -56px;
+    background-size: 1404px 105px;
+}
