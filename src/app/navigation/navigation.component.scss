@@ -1,0 +1,36 @@
+.navbar-brand {
+    span {
+        background: url(/assets/MyntraWebSprite_27_01_2021.png) no-repeat;
+        width: 53px;
+        height: 36px;
+        background-position: -462px 0;
+        background-size: 1404px 105px;
+        display: inline-block;
+    }
+}
+.nav-item {
+    margin: 0.5rem 1rem;
+    &.active {
+        .nav-link {
+            border-bottom: 5px solid #ff912e;
+            color: #f41cb2;
+        }
+    }
+    .nav-link {
+        border-bottom: 5px solid transparent;
+        padding-left: 0;
+        padding-right: 0;
+        text-transform: uppercase;
+        font-weight: 600;
+        &:hover {
+            color: #f41cb2;
+        }
+    }
+}
+.profile-link,
+.bag-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
