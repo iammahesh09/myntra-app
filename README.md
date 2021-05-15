@@ -1,3 +1,3 @@
 # MyntraApp
 
-start application - npm start
+## start application cmd - npm start
