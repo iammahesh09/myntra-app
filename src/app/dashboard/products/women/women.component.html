@@ -1,1 +1,22 @@
-<p>women works!</p>
+<div class="row">
+    <div class="col-xl-4 col-sm-6 col-12" *ngFor="let product of products">
+        <div class="card product product-women">
+            <img src="assets/women/{{product.picture}}" class="card-img-top" alt="{{product.brand}}">
+            <div class="card-body">
+                <span class="product-category badge bg-success">{{product.category}}</span>
+                <span class="product-id badge bg-primary">{{product.id}}</span>
+                <h5 class="card-title">{{product.brand}}</h5>
+                <p class="card-text">{{product.content}}</p>
+                <p class="card-text">Price - {{product.price}}</p>
+                <div class="d-flex align-content-center">
+                    <h6>Colors</h6>
+                    <ul class="nav color-nav">
+                        <li class="nav-item" *ngFor="let code of product.color" class="color color-{{code}}">
+                        </li>
+                    </ul>
+                </div>
+                <a href="#" class="card-link">Show Details</a>
+            </div>
+        </div>
+    </div>
+</div>

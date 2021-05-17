@@ -16,3 +16,85 @@
     background-position: -341px -56px;
     background-size: 1404px 105px;
 }
+.color {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 4px #000;
+
+    &-blue {
+        background-color: rgb(0, 116, 217);
+    }
+    &-navy-blue {
+        background-color: #000080;
+    }
+    &-red {
+        background-color: rgb(211, 75, 86);
+    }
+    &-yellow {
+        background-color: rgb(234, 220, 50);
+    }
+    &-green {
+        background-color: rgb(94, 177, 96);
+    }
+    &-black {
+        background-color: rgb(54, 69, 79);
+    }
+    &-gray {
+        background-color: rgb(159, 168, 171);
+    }
+    &-sky-blue {
+        background-color: #87ceeb;
+    }
+    &-white {
+        background-color: #fff;
+    }
+    &-orange {
+        background-color: #f25431;
+    }
+    &-brown {
+        background-color: rgb(145, 80, 57);
+    }
+    &-silver {
+        background-color: rgb(179, 179, 179);
+    }
+    &-pink {
+        background-color: rgb(241, 169, 196);
+    }
+}
+.color-nav {
+    margin-left: 15px;
+    .nav-item:not(:last-child) {
+        margin-right: 5px;
+    }
+}
+.product {
+    position: relative;
+    margin-top: 24px;
+    min-height: 220px;
+    &-women {
+        min-height: 720px;
+    }
+    .card-title {
+        text-transform: capitalize;
+    }
+    .card-body {
+        padding: 2.5rem 1rem;
+    }
+    &-id {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+    &-category {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        text-transform: uppercase;
+    }
+    .card-link {
+        position: absolute;
+        bottom: 10px;
+    }
+}
